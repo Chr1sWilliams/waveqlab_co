@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: /home/fred/Desktop/waveqlab_co/src
+=======
+# Install script for directory: /home/chriswilliams/Documents/waveqlab_co/src
+>>>>>>> Chris build
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +49,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "/home/fred/Desktop/waveqlab_co/build/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "/home/chriswilliams/Documents/waveqlab_co/build/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> Chris build
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

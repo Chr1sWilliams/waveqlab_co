@@ -2,14 +2,14 @@ file(REMOVE_RECURSE
   "CMakeFiles/pre_wql3d.dir/common.f90.o"
   "CMakeFiles/pre_wql3d.dir/datatypes.f90.o"
   "CMakeFiles/pre_wql3d.dir/grid.f90.o"
+  "CMakeFiles/pre_wql3d.dir/preprocessor.f90.o"
   "CMakeFiles/pre_wql3d.dir/metrics.f90.o"
-  "CMakeFiles/pre_wql3d.dir/mpi3d_interface.f90.o"
   "CMakeFiles/pre_wql3d.dir/mpi3dbasic.f90.o"
   "CMakeFiles/pre_wql3d.dir/mpi3dcomm.f90.o"
   "CMakeFiles/pre_wql3d.dir/mpi3dio.f90.o"
-  "CMakeFiles/pre_wql3d.dir/preprocessor.f90.o"
-  "pre_wql3d"
+  "CMakeFiles/pre_wql3d.dir/mpi3d_interface.f90.o"
   "pre_wql3d.pdb"
+  "pre_wql3d"
 )
 
 # Per-language clean rules from dependency scanning.
